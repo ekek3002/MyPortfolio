@@ -642,3 +642,6 @@ a {
 @media ( max-width: 768px ) {
   .resume-item { height: auto; }
 }
+@media ( max-width: 768px ) {
+  .pro-br { margin-top: 10px; }
+}
